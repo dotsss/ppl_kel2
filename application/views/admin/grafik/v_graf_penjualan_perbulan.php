@@ -31,7 +31,7 @@
 $(function () {
     $('#report').highcharts({
         chart: {
-            type: 'line',
+            type: 'column',
             margin: 75,
             options3d: {
                 enabled: false,
